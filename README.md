@@ -16,6 +16,7 @@ By the end of the book, you will have insights into the future of parallel compu
 ## What you will learn
 
 ● Build faster, smarter, and more efficient applications for data analysis, machine learning, and scientific computing
-● Implement parallel algorithms in Python
-● Best practices for designing, implementing, and scaling parallel programs in Python
 
+● Implement parallel algorithms in Python
+
+● Best practices for designing, implementing, and scaling parallel programs in Python
