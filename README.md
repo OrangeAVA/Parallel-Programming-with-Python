@@ -1,5 +1,5 @@
 
-## Parallel Programming with Python
+## Parallel and High Performance Programming with Python
 
 This is the repository for [Parallel and High Performance Programming with Python](https://orangeava.com/products/parallel-programming-with-python), published by Orange AVA™
 
