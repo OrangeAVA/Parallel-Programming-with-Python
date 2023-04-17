@@ -15,13 +15,7 @@ By the end of the book, you will have insights into the future of parallel compu
 
 ## What you will learn
 
-● Execute highly complex and distributed computational tasks
-
-● Apply parallel computing concepts using Python to solve real-world problems related to data science and high-performance computing
-
 ● Build faster, smarter, and more efficient applications for data analysis, machine learning, and scientific computing
-
 ● Implement parallel algorithms in Python
-
 ● Best practices for designing, implementing, and scaling parallel programs in Python
 
